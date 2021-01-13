@@ -19,6 +19,10 @@ Simple WhatsApp Bot
 
 ---------
 
+### Heroku Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
 > git clone https://github.com/fazilvk786/wafaz
