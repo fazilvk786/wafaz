@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
+  "name": "Faz-Assist-Bot",
   "version": "1.0.0",
-  "description": "Customizable WhatsApp Bot",
+  "description": "Assistant of Fazil vk",
   "main": "index.js",
   "directories": {
     "lib": "lib",
